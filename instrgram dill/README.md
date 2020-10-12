@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/jabrian45/instrgramclone/blob/main/StanleyGIF.gif' width='' alt='Video Walkthrough' />
+<img src='https:// />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
